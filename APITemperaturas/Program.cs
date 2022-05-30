@@ -10,7 +10,7 @@ builder.Services.AddSwaggerGen(c =>
         new OpenApiInfo
         {
             Title = "APITemperaturas",
-            Description = "API de conversão de temperaturas implementada com .NET 7 + Minimal APIs", 
+            Description = "API de conversão de temperaturas implementada com .NET 6 + Minimal APIs", 
             Version = "v1",
             Contact = new OpenApiContact()
             {
